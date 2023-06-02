@@ -1,0 +1,7 @@
+#Sun May 07 02:13:44 AST 2023
+base.1=C\:\\Users\\Legion\\OneDrive\\Desktop\\abdulla\\android_studio_digit\\Android-Tensorflow-digits-recognition\\HandWriting\\app\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\out\\classes.dex
+path.1=classes.dex
+base.0=C\:\\Users\\Legion\\OneDrive\\Desktop\\abdulla\\android_studio_digit\\Android-Tensorflow-digits-recognition\\HandWriting\\app\\build\\intermediates\\dex\\debug\\mergeExtDexDebug\\out\\classes.dex
+renamed.1=classes2.dex
+renamed.0=classes.dex
+path.0=classes.dex
